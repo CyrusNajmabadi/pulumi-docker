@@ -1,0 +1,12 @@
+{
+    "name": "pulumi-docker",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "0.16.0",
+        "@pulumi/aws": "0.16.0",
+        "@pulumi/cloud-aws": "0.16.0",
+        "@pulumi/cloud": "0.16.0"
+    }
+}
