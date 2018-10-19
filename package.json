@@ -1,7 +1,11 @@
 {
     "name": "pulumi-docker",
+    "scripts": {
+        "build": "tsc"
+    },
     "devDependencies": {
-        "@types/node": "latest"
+        "@types/node": "latest",
+        "typescript": "^3.0.3"
     },
     "dependencies": {
         "@pulumi/pulumi": "0.16.0",
